@@ -46,3 +46,5 @@ destination: ./_site
 
 # Custom vars
 version:          0.7.8
+
+exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
