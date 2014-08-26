@@ -1,16 +1,19 @@
 ---
 layout: page
 title: Resume
-description: Resume of Abdel Raoof
+description: Resume of John Henderson
 theme: red
 ---
-Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
+I am a Project Manager with 25 years experience of successfully delivering projects through the full lifecycle for clients in a range of sectors including media, finance, telecoms and government/public sector.
 
-**Experience in Web Technology:**
-Building and Supporting web applications using Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
+I have helped troubleshoot many critical projects in complex business environments  which have found themselves in difficulty due to late deliveries, poor change management, lack of process, commercial and quality issues.  I have proposed recovery plans and carried out these plans to achieve successful delivery for the end Client.
 
-**Experience in Enterprise Content Management:**
-Implemented custom applications for content and knowledge management. Have also worked with leading industry ECM applications like SharePoint 2013, MOSS 2007, SharePoint 2010 and Documentum.
+I combine pragmatic Project Management and QA techniques to help ensure successful delivery on time and to budget with the required level of quality.  I have held line management responsibility for teams of up to 12 people and budget responsibility up to £5m.   
+
+I have a keen interest in the latest technologies, and still very much enjoy writing code (using Ruby on Rails since 2006)
+
+
+<hr/>
 
 <!-- Skills -->
 <section class="row">
@@ -22,18 +25,46 @@ Implemented custom applications for content and knowledge management. Have also 
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
-					<li class="list-group-item">C#</li>
-					<li class="list-group-item">ASP.Net / ASP.Net MVC</li>
-					<li class="list-group-item">Javascript</li>
+					<li class="list-group-item">Ruby on Rails</li>
 					<li class="list-group-item">HTML & CSS</li>
+					<li class="list-group-item">Visual Basic</li>
+					<li class="list-group-item">SQL</li>
 				</ul>
 			</div>
 			<div class="col-md-6">
 				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Specialties</strong></h4></li>
-					<li class="list-group-item">.Net Web Technologies</li>
-					<li class="list-group-item">SharePoint 2013</li>
-					<li class="list-group-item">Sencha Ext Js</li>
+					<li class="list-group-item">Database driven websites</li>
+					<li class="list-group-item">Heroku</li>
+					<li class="list-group-item"></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="row">
+	<header class="col-md-3">
+		<h3 style="text-transform:uppercase;color:gray"></h3>
+	</header>
+	<div class="col-md-9">
+		<div class="row">
+			<div class="col-md-6">
+				<ul class="list-group">
+					<li class="list-group-item active"><h4><strong>Project Management</strong></h4></li>
+					<li class="list-group-item">PRINCE 2</li>
+					<li class="list-group-item">Agile/Scrum</li>
+					<li class="list-group-item">Pivotal Tracker</li>
+					<li class="list-group-item">MS Project</li>
+				</ul>
+			</div>
+			<div class="col-md-6">
+				<ul class="list-group">
+					<li class="list-group-item active"><h4><strong>Software Testing</strong></h4></li>
+					<li class="list-group-item">Quality Centre</li>
+					<li class="list-group-item">Quick Test Pro</li>
+					<li class="list-group-item">Testlink</li>
+					<li class="list-group-item">JIRA</li>
+					<li class="list-group-item">Fogbugz</li>
 				</ul>
 			</div>
 		</div>
@@ -48,12 +79,16 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>Master of Computer Applications (MCA)</h4>
-				<p>2004-2007 - Vellore Institute of Technology</p>
+				<h4>PRINCE 2 Practitioner</h4>
+				<p>2005</p>
 			</li>
 			<li>
-				<h4>Bachelor of Sscience - Computer Science</h4>
-				<p>2001-2004 - University of Calicut</p>
+				<h4>ISEB Practitioner in Software Testing</h4>
+				<p>2004</p>
+			</li>
+			<li>
+				<h4>BTEC National Diploma in Computer Studies</h4>
+				<p>1997-1999 - North East Institute</p>
 			</li>
 		</ul>
 	</div>
@@ -67,24 +102,9 @@ Implemented custom applications for content and knowledge management. Have also 
 	<div class="col-md-9">
 		<ul>
 			<li>
-				<h4>C4 Advanced Solutions</h4>
-				<h5>Present</h5>
-				<p>Working as Application Developer</p>
-			</li>
-			<li>
-				<h4>Abdul Samad Al Qurashi</h4>
-				<h5>March 2010 - January 2013</h5>
-				<p>Worked as Web Developer</p>
-			</li>
-			<li>
-				<h4>Samsung SDS</h4>
-				<h5>May 2009 - March 2010</h5>
-				<p>Worked as Web Developer with MIS team</p>
-			</li>
-			<li>
-				<h4>Honeywell Technology Solutions</h4>
-				<h5>December 2006 - December 2008</h5>
-				<p>Worked as Project Trainee & later Software Engineer</p>
+				<h4>XXXX</h4>
+				<h5>YYYY</h5>
+				<p>ZZZZ</p>
 			</li>
 		</ul>
 	</div>

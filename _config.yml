@@ -7,9 +7,9 @@ highlighter: pygments
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
-tagline:          'A Metro theme for Jekyell'
-description:      'A Sample blog using Jekyll Metro'
+title:            'John Henderson'
+tagline:          'Technology Consultant'
+description:      'JH Technology Blog'
 url:              ''
 baseurl:          ''
 
@@ -25,13 +25,13 @@ navigation:
   url: /tags/
 - text: Archive
   url : /archive/
-
+  
 # Author Details
-author:         'Abdel Raoof Olakara'
-linkedin:       'https://ae.linkedin.com/in/olakara/'
-twitter:        'https://twitter.com/olakara'
-facebook:       'https://www.facebook.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+author:         'John Henderson'
+linkedin:       'https://www.linkedin.com/pub/john-henderson/a2/559/573'
+twitter:        'https://twitter.com/John_Henderson_'
+facebook:       'https://www.facebook.com/shopjohn'
+#gplus:          'https://plus.google.com/100425464897246255887/'
 
 # Google Analytics
 gahandler: 'UA-52149651-1'
