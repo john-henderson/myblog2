@@ -1,8 +1,8 @@
-#source 'https://rubygems.org'
+source 'https://rubygems.org'
 #gem 'json'
 #gem 'jekyll'
 
-source :rubygems
+#source :rubygems
 
 #gem "rack"
 #gem "rake"                # actually not need for heroku but for the provided Rakefile
