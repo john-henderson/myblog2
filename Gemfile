@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-#gem 'json'
-#gem 'jekyll'
+gem 'json'
+gem 'jekyll'
 
 #source :rubygems
 
