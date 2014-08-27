@@ -10,7 +10,7 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'John Henderson'
 tagline:          'Technology Consultant'
 description:      'JH Technology Blog'
-url:              'http://john-henderson.github.io/myblog3'
+url:              'http://john-henderson.github.io/myblog2'
 baseurl:          ''
 
 # Navigation
